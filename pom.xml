@@ -41,9 +41,9 @@
     </description>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/bundles/extensions/healthcheck/webconsole</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/bundles/extensions/healthcheck/webconsole</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/trunk/bundles/extensions/healthcheck/webconsole</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-hc-webconsole.git</conncetion>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-hc-webconsole.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-hc-webconsole.git</url>
     </scm>
 
     <build>
